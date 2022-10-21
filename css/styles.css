@@ -864,10 +864,11 @@ body {
 }
 
 .modal-form-btn {
-  position: absolute;
+  /* position: absolute;
   left: 50%;
   bottom: 40px;
-  transform: translateX(-50%);
+  transform: translateX(-50%); */
+  margin: 0 auto;
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
